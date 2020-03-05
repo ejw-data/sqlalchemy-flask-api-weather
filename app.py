@@ -185,4 +185,3 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-# Note:  I do not understand the Hints section on gitlab - I can join the two tables together but I did not see anything specifying the need.
